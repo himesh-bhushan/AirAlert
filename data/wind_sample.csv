@@ -1,0 +1,7 @@
+timestamp,location,latitude,longitude,wind_speed_ms,wind_direction_deg,direction_east_component,direction_north_component,data_status
+2026-10-16T00:00:00Z,Riau,0.5,101.5,4.2,230,-0.766,-0.643,SYNTHETIC_SAMPLE
+2026-10-16T03:00:00Z,Central Sumatra,-0.5,102.2,5.1,240,-0.866,-0.5,SYNTHETIC_SAMPLE
+2026-10-16T06:00:00Z,South Sumatra,-1.5,103.5,3.6,250,-0.94,-0.342,SYNTHETIC_SAMPLE
+2026-10-16T09:00:00Z,Malacca Strait,2.0,101.0,4.8,220,-0.643,-0.766,SYNTHETIC_SAMPLE
+2026-10-16T12:00:00Z,Selangor,3.1,101.5,2.9,210,-0.5,-0.866,SYNTHETIC_SAMPLE
+2026-10-16T15:00:00Z,Johor Strait,1.5,103.8,3.3,200,-0.342,-0.94,SYNTHETIC_SAMPLE
