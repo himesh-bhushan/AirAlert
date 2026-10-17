@@ -1,0 +1,9 @@
+timestamp,latitude,longitude,region,confidence,frp_mw,data_status
+2026-10-16T02:10:00Z,-0.5,102.2,Central Sumatra,nominal,12.4,SYNTHETIC_SAMPLE
+2026-10-16T03:20:00Z,-1.1,103.8,South Sumatra,high,26.1,SYNTHETIC_SAMPLE
+2026-10-16T04:40:00Z,0.6,101.1,Riau,nominal,8.7,SYNTHETIC_SAMPLE
+2026-10-16T06:00:00Z,-2.4,104.2,South Sumatra,low,5.2,SYNTHETIC_SAMPLE
+2026-10-16T08:10:00Z,1.2,99.9,North Sumatra,high,19.8,SYNTHETIC_SAMPLE
+2026-10-16T09:35:00Z,-0.2,104.5,Riau Islands vicinity,nominal,10.5,SYNTHETIC_SAMPLE
+2026-10-16T11:15:00Z,-3.1,102.9,South Sumatra,high,31.7,SYNTHETIC_SAMPLE
+2026-10-16T12:25:00Z,0.1,103.2,Riau,nominal,14.0,SYNTHETIC_SAMPLE
